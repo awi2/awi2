@@ -1,0 +1,3 @@
+Localhost-run notes' maker and static site generator, useful for todo and notes making,
+ or for editing of text notes, later  to be published via rsync.
+Nginx.conf file for remote deployment incuded.
